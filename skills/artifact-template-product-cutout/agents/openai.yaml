@@ -1,0 +1,7 @@
+interface:
+  display_name: "Product Cutout 透明投影商品图"
+  short_description: "从商品链接或原图制作透明底、柔和投影的网页商品 PNG"
+  icon_large: "./assets/preview.png"
+  default_prompt: "使用 $artifact-template-product-cutout，将我提供的商品链接或图片处理成透明背景、柔和落地投影、方形留白的网页商品 PNG，保留商品原有细节。"
+policy:
+  allow_implicit_invocation: true
