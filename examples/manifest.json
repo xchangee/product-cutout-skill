@@ -46,5 +46,13 @@
     "focus": "杯体、提手镂空与落地投影",
     "provenance": "Existing product-gallery image supplied by the project owner; not a new generation or skill benchmark.",
     "sha256": "2d6f8f80b540f92500dc73181b5c458644cb64e91b7d9809cc6aedd58792cd71"
+  },
+  {
+    "file": "lucky-cat.png",
+    "productName": "招财猫商品图",
+    "productId": "3764133703",
+    "focus": "首页主展示图；陶瓷光泽、透明背景与落地投影",
+    "provenance": "User-supplied PNG used unchanged as the README hero.",
+    "sha256": "194564ed79d5153a6eef9c207ae441f3d4976d58aba0e12e7392f948a0623c14"
   }
 ]

@@ -2,7 +2,7 @@
 
 把商品链接或商品照片，处理成透明背景、柔和落地投影的网页商品 PNG。
 
-![透明商品图示例](skills/artifact-template-product-cutout/assets/preview.png)
+![招财猫透明商品图示例](examples/lucky-cat.png)
 
 ## 效果
 
