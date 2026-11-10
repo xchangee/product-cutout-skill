@@ -14,6 +14,22 @@
 
 这是给 Codex 使用的指令型 skill，不是独立抠图程序。生成式编辑可能改变复杂图案、文字和细小结构，交付前需要对照原图检查。
 
+## 更多效果示例
+
+以下 6 张选自项目已有商品展示图，用于说明希望复现的透明背景、商品质感和投影效果；它们不是本次运行该 skill 新生成的结果，也不构成效果评测。所有示例均为 1254 × 1254、带 Alpha 通道的 PNG。
+
+| 毛绒挂件 | 布艺手包 | 金属徽章 |
+| :---: | :---: | :---: |
+| <img src="examples/plush-charm.png" alt="阿噗元气小象毛绒挂件" width="250"> | <img src="examples/fabric-pouch.png" alt="阿噗趣趣手包" width="250"> | <img src="examples/enamel-pin.png" alt="好未来三定律徽章" width="250"> |
+| 毛绒与刺绣边缘 | 布料、拉链和手带 | 金属边框与珐琅反光 |
+
+| 晴雨伞 | 笔记本 | 手提保温杯 |
+| :---: | :---: | :---: |
+| <img src="examples/umbrella.png" alt="小阿噗海洋泡泡晴雨伞" width="250"> | <img src="examples/notebook.png" alt="阿噗名画系列笔记本" width="250"> | <img src="examples/handled-tumbler.png" alt="阿噗甜梦时光手提保温杯" width="250"> |
+| 浅色面料与不规则轮廓 | 印刷图案与平直边缘 | 提手镂空与落地投影 |
+
+图片文件见 [examples](examples/)，品名和文件校验信息见 [manifest.json](examples/manifest.json)。示例图的权益范围见 [NOTICE.md](NOTICE.md)。
+
 ## 安装
 
 在支持 skill 的 Codex 环境中，对 Codex 说：

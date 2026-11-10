@@ -1,0 +1,50 @@
+[
+  {
+    "file": "plush-charm.png",
+    "productName": "阿噗元气小象毛绒挂件",
+    "productId": "5360811226",
+    "focus": "毛绒与刺绣边缘",
+    "provenance": "Existing product-gallery image supplied by the project owner; not a new generation or skill benchmark.",
+    "sha256": "17fef0effd14ef4597efd15f4f2bcaaa473272359a72fb825d0ca324d055e473"
+  },
+  {
+    "file": "fabric-pouch.png",
+    "productName": "阿噗趣趣手包",
+    "productId": "5390214109",
+    "focus": "布料、拉链和手带",
+    "provenance": "Existing product-gallery image supplied by the project owner; not a new generation or skill benchmark.",
+    "sha256": "dece992cd97c4304700302ec24e62f5fccfb67eba89be4e87128f9cd89ea50ba"
+  },
+  {
+    "file": "enamel-pin.png",
+    "productName": "好未来三定律徽章",
+    "productId": "5155402756",
+    "focus": "金属边框与珐琅反光",
+    "provenance": "Existing product-gallery image supplied by the project owner; not a new generation or skill benchmark.",
+    "sha256": "f1d29ad8788e0851ba0e7caea17ee8d20fac4f886d24979c3cefaee927e7f43a"
+  },
+  {
+    "file": "umbrella.png",
+    "productName": "小阿噗海洋泡泡晴雨伞",
+    "productId": "6363999742",
+    "focus": "大面积浅色与不规则轮廓",
+    "provenance": "Existing product-gallery image supplied by the project owner; not a new generation or skill benchmark.",
+    "sha256": "b899ec4caffee980e3b259f2285aba491fbe52dfa561740c6d987d8d77bcf226"
+  },
+  {
+    "file": "notebook.png",
+    "productName": "阿噗名画系列笔记本",
+    "productId": "4106327031",
+    "focus": "纸张、印刷图案与平直边缘",
+    "provenance": "Existing product-gallery image supplied by the project owner; not a new generation or skill benchmark.",
+    "sha256": "c5b93c2d3c60c4271d2165053938a8099a8d175dcdb0fe4589889e53421d3a9d"
+  },
+  {
+    "file": "handled-tumbler.png",
+    "productName": "阿噗甜梦时光手提保温杯",
+    "productId": "6516284155",
+    "focus": "杯体、提手镂空与落地投影",
+    "provenance": "Existing product-gallery image supplied by the project owner; not a new generation or skill benchmark.",
+    "sha256": "2d6f8f80b540f92500dc73181b5c458644cb64e91b7d9809cc6aedd58792cd71"
+  }
+]
